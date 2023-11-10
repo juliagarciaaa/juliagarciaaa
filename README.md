@@ -9,8 +9,6 @@
 
 ## Habilidades:
 
-- Vale lembrar que ainda sou estudante, portanto, somente possuo um conhecimento básico de ambas.
-
 ![Git](https://img.shields.io/badge/Git-3F8A9B?style=for-the-badge&logo=git&logoColor=FFF)
 ![GitHub](https://img.shields.io/badge/GitHub-3F8A9B?style=for-the-badge&logo=github&logoColor=FFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-3F8A9B?style=for-the-badge&logo=c%2B%2B&logoColor=FFF)
