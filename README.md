@@ -4,8 +4,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amorais19&theme=transparent&bg_color=3F8A9B&border_color=3F8A9B&show_icons=true&icon_color=FFF&title_color=FFF&hide_title=true&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amorais19&layout=compact&bg_color=3F8A9B&border_color=3F8A9B&title_color=FFF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliagarciaaa&theme=transparent&bg_color=3F8A9B&border_color=3F8A9B&show_icons=true&icon_color=FFF&title_color=FFF&hide_title=true&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliagarciaaa&layout=compact&bg_color=3F8A9B&border_color=3F8A9B&title_color=FFF&text_color=FFF)
 
 ## Habilidades:
 
